@@ -1,0 +1,6 @@
+101   computer funda   cf   sneha   durjoy   200.0   150
+102   internet fundamental   if   sneha   durjoy   350.0   59
+110   biology   plant   sneha   emon   250.0   100
+125   hunter   hunt   sneha   sneha   150.0   459
+8798   jcj   jxk   zkh   kxh   8797.0   98
+45   df   er   d   f   45.0   4
